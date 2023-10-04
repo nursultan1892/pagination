@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+.nav-bar {
+  background-color: lightgray;
+}
+.spinner {
+  text-align: center;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pic {
+  width: 100%;
+  height: auto;
+}
+.flex {
+  width: 200px;
+  height: auto;
+  margin: 5px;
+}
+.input input {
+  width: 400px;
+  margin: auto;
+}
+.input {
+  margin-right: 300px;
+  margin: auto;
+}
